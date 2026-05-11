@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem 'wdm', '>= 0.1.0'
+#     gem 'wdm', '>= 0.1.0'
     gem 'webrick'
 end
 group :other_plugins do
